@@ -18,7 +18,7 @@ public class employee {
 			e.employeesalary = 50000;
 			System.out.println("Employee name : "+e.employeename);
 			System.out.println("employee salary:"+e.employeesalary);
-			System.out.println("companyname:"+employee.companyname);
+			System.out.println("companyname:"+companyname);
 			System.out.println("location:"+location);
 			
 			employee e1 = new employee();
