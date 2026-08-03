@@ -10,6 +10,10 @@ public class rectangle {
 		rectangle re =new rectangle();
 		re.calculatearea();
 		
+		
+		char ch ='A';
+		System.out.println((char)(ch + 8));
+		System.out.println(ch);
 	}
 
 }

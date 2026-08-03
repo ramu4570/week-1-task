@@ -1,5 +1,5 @@
-
-public class employee {
+//copy constructor
+class employee {
 	int empid;
 	String empname;
 	double salary;

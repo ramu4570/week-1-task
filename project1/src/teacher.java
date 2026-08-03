@@ -1,4 +1,4 @@
-
+//copy constructor
 public class teacher {
 	int rollno;
 	String name;
