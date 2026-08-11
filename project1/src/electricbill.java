@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class electricbill {
+public class electricbill {                      
 	int consumer_no;
 	String consumer_name;
 	float units;
