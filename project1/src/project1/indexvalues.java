@@ -12,16 +12,16 @@ public class indexvalues {
 		}
 		System.out.println("enter the element to find index value");
 		int search = sc.nextInt();
-		int found =0;
+		//int found =0;
 		
 		for(int j=0;j<arr.length; j++) {
 			if(arr[j]==search) {
 				System.out.println("index value of element is:"+j);
 			}
 			}
-		if(found ==0) {
+		//if(found ==0) {
 			System.out.println("enter valid value");
-		}
+		//}
 	}
 
 }
